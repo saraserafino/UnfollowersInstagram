@@ -16,7 +16,7 @@ Mandami una mail (serafinos1999@gmail.com) con oggetto "Unfollowers Instagram" e
 ## English version
 Wanna know who doesn't follow you back on Instagram but don't trust apps that ask you for your password?
 
-Then this short and simple Python programme is for you!
+Then this short and simple Python program is for you!
 
 In fact, it exclusively uses the following and followers list - which you can download by following the instructions in the "How to download lists" folder - to get the nicknames of people you follow on Instagram but don't follow you back and also those who follow you but you don't follow back.
 
