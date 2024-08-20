@@ -10,7 +10,7 @@ Infatti usa esclusivamente la lista di following e followers - che puoi scaricar
 Scarica il mio codice python sul tuo computer e inseriscilo nella stessa cartella contenente le liste, da terminale scrivi `python3 unfollowers_instagram.py` (o python) e otterrai i risultati!
 
 ### Se non hai Python
-Mandami una mail (serafinos1999@gmail.com) con oggetto "Unfollowers Instagram" e allegate le liste `followers_1.json` e `following.json`; ti risponderò con i risultati! Per questo servizio ti chiedo una piccola donazione a partire da 1.50 € su PayPal alla stessa mail; se non hai PayPal fammi sapere per mail come possiamo fare.
+Mandami una mail (serafinos1999@gmail.com) con oggetto "Unfollowers Instagram" e allegate le liste `followers_1.json` e `following.json`; ti risponderò con i risultati! Per questo servizio ti chiedo una piccola donazione a partire da €1.50 su PayPal alla stessa mail; se non hai PayPal fammi sapere per mail come possiamo fare.
 
 ### Come scaricare le liste
 Che tu sia da cellulare o computer, vai dalle impostazioni di Instagram e clicca su "La tua attività".
@@ -61,7 +61,7 @@ In fact, it exclusively uses the following and followers list - which you can do
 Download my python code on your computer and put it in the same folder containing the lists, from the terminal type `python3 unfollowers_instagram.py` (or python) and you will get the results!
 
 ### If you don't have Python
-Send me an email (serafinos1999@gmail.com) with the subject "Unfollowers Instagram" and attach the lists `followers_1.json` and `following.json`; I will get back to you with the results! For this service I ask for a small donation starting from €1.50 on PayPal to the same mail; if you don't have PayPal let me know by mail how we can do it.
+Send me an email (serafinos1999@gmail.com) with subject "Unfollowers Instagram" and attach the lists `followers_1.json` and `following.json`; I will get back to you with the results! For this service I ask for a small donation starting from €1.50 on PayPal to the same mail; if you don't have PayPal let me know by mail how we can do it.
 
 ### How to download the lists
 Whether on your phone or computer, go to Instagram's settings and click on "Your activity".
