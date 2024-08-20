@@ -5,7 +5,7 @@ Vuoi sapere chi non ti ricambia il follow su Instagram ma non ti fidi delle appl
 
 Allora questo breve e semplice programma Python fa per te!
 
-Infatti usa esclusivamente la lista di following e followers - che puoi scaricare seguendo le istruzioni nella cartella "How to download lists" - per ottenere i nickname delle persone che segui su Instagram ma non ti ricambiano e anche di quelle che ti seguono ma tu non ricambi.
+Infatti usa esclusivamente la lista di following e followers - che puoi scaricare seguendo le istruzioni alla fine di questa pagina o nella cartella "How to download lists" - per ottenere i nickname delle persone che segui su Instagram ma non ti ricambiano e anche di quelle che ti seguono ma tu non ricambi.
 
 ### Se hai Python
 Scarica il mio codice python e inseriscilo nella stessa cartella contenente le liste, da terminale scrivi `python3 unfollowers_instagram.py` (o python) e otterrai i risultati!
@@ -13,12 +13,19 @@ Scarica il mio codice python e inseriscilo nella stessa cartella contenente le l
 ### Se non hai Python
 Mandami una mail (serafinos1999@gmail.com) con oggetto "Unfollowers Instagram" e allegate le liste `followers_1.json` e `following.json`; ti risponderò con i risultati! Per questo servizio ti chiedo una piccola donazione a partire da 1.50 € su PayPal alla stessa mail; se non hai PayPal fammi sapere per mail come possiamo fare.
 
+### Come scaricare le liste
+Vai sulle impostazioni di Instagram
+<p align="center">
+  <img src="How\to\download\lists/1.png" /><br>
+ Step 1
+</p>
+
 ## English version
 Wanna know who doesn't follow you back on Instagram but don't trust apps that ask you for your password?
 
 Then this short and simple Python program is for you!
 
-In fact, it exclusively uses the following and followers list - which you can download by following the instructions in the "How to download lists" folder - to get the nicknames of people you follow on Instagram but don't follow you back and also those who follow you but you don't follow back.
+In fact, it exclusively uses the following and followers list - which you can download by following the instructions at the end of this page or in the "How to download lists" folder - to get the nicknames of people you follow on Instagram but don't follow you back and also those who follow you but you don't follow back.
 
 ### If you have Python
 Download my python code and put it in the same folder containing the lists, from the terminal type `python3 unfollowers_instagram.py` (or python) and you will get the results!
