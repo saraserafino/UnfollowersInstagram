@@ -21,7 +21,7 @@ def unfollowers(followings, followers):
             print(str(tot)+" "+i)
     print("\nTotal: "+str(tot))
         
-def vip(followings, followers):
+def fans(followings, followers):
     print("\nThey follow you but you do not follow them:\n")
     tot = 0
     for i in followers:
@@ -31,4 +31,4 @@ def vip(followings, followers):
     print("\nTotal: "+str(tot))
 
 unfollowers(followings, followers)
-vip(followings, followers)
+fans(followings, followers)
