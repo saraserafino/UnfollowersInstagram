@@ -14,7 +14,7 @@ Mandami una mail (serafinos1999@gmail.com) con oggetto "Unfollowers Instagram" e
 
 ### Come scaricare le liste
 Vai sulle impostazioni di Instagram
-<p align="center">
+<p align="left">
   <img src="How%20to%20download%20lists/1.png" width="200" /><br>
  Step 1
 </p>
