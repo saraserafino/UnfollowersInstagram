@@ -1,8 +1,7 @@
 # Unfollowers Instagram
 *English version below*
 
-Vuoi sapere chi non ti ricambia il follow su Instagram ma non ti fidi delle applicazioni che ti chiedono la password?
-
+Vuoi sapere chi non ti ricambia il follow su Instagram ma non ti fidi delle applicazioni che ti chiedono la password?<br>
 Allora questo breve e semplice programma Python fa per te!
 
 Infatti usa esclusivamente la lista di following e followers - che puoi scaricare seguendo le istruzioni alla fine di questa pagina o nella cartella "How to download lists" - per ottenere i nickname delle persone che segui su Instagram ma non ti ricambiano e anche di quelle che ti seguono ma tu non ricambi.
@@ -16,13 +15,12 @@ Mandami una mail (serafinos1999@gmail.com) con oggetto "Unfollowers Instagram" e
 ### Come scaricare le liste
 Vai sulle impostazioni di Instagram
 <p align="center">
-  <img src="How%20to%20download%20lists/1.png" /><br>
+  <img src="How%20to%20download%20lists/1.png" width="200" /><br>
  Step 1
 </p>
 
 ## English version
-Wanna know who doesn't follow you back on Instagram but don't trust apps that ask you for your password?
-
+Wanna know who doesn't follow you back on Instagram but don't trust apps that ask you for your password?<br>
 Then this short and simple Python program is for you!
 
 In fact, it exclusively uses the following and followers list - which you can download by following the instructions at the end of this page or in the "How to download lists" folder - to get the nicknames of people you follow on Instagram but don't follow you back and also those who follow you but you don't follow back.
