@@ -13,11 +13,18 @@ Scarica il mio codice python e inseriscilo nella stessa cartella contenente le l
 Mandami una mail (serafinos1999@gmail.com) con oggetto "Unfollowers Instagram" e allegate le liste `followers_1.json` e `following.json`; ti risponderò con i risultati! Per questo servizio ti chiedo una piccola donazione a partire da 1.50 € su PayPal alla stessa mail; se non hai PayPal fammi sapere per mail come possiamo fare.
 
 ### Come scaricare le liste
-Vai sulle impostazioni di Instagram
+Vai sulle impostazioni di Instagram e clicca su "La tua attività"
 <p align="left">
   <img src="How%20to%20download%20lists/1.png" width="200" /><br>
  Step 1
 </p>
+
+Clicca sulla sezione "Scarica le tue informazioni" e poi su "Continua"
+<p align="left">
+  <img src="How%20to%20download%20lists/2.png" width="200" /><br>
+ Step 1
+</p>
+
 
 ## English version
 Wanna know who doesn't follow you back on Instagram but don't trust apps that ask you for your password?<br>
