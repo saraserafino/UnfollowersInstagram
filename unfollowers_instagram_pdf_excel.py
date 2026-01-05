@@ -17,7 +17,7 @@ with open('following.json', 'r') as file:
 
 # Create a vector with their nicknames, accordingly to the structure of the files
 followers = [entry['value'] for item in followers_data for entry in item['string_list_data']]
-followings = [entry['value'] for item in followings_data['relationships_following'] for entry in item['string_list_data']]
+followings = [item['title'] for item in followings_data['relationships_following']] 
 
 # Create a PDF document
 pdf_file = "UnfollowersInstagram.pdf"

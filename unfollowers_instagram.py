@@ -10,7 +10,7 @@ with open('following.json', 'r') as file:
 
 # Create a vector with their nicknames, accordingly to the structure of the files
 followers = [entry['value'] for item in followers_data for entry in item['string_list_data']]
-followings = [entry['value'] for item in followings_data['relationships_following'] for entry in item['string_list_data']]
+followings = [item['title'] for item in followings_data['relationships_following']] 
 
 def unfollowers(followings, followers):
     print("You follow them but they do not follow you back:\n")
